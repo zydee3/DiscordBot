@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: Core.Bot
+Class-Path: log4j-slf4j-impl-2.11.2.jar mongo-java-driver-3.11.0.jar log
+ 4j-api-2.11.2.jar okhttp-3.13.0.jar annotations-16.0.1.jar jna-4.4.0.ja
+ r opus-java-api-1.0.4.jar slf4j-api-1.7.25.jar log4j-core-2.11.2.jar ok
+ io-1.17.2.jar json-20170516.jar jackson-annotations-2.10.1.jar jsr305-3
+ .0.2.jar trove4j-3.0.3.jar opus-java-natives-1.0.4.jar ahocorasick-0.4.
+ 0.jar nv-websocket-client-2.9.jar commons-collections4-4.1.jar jackson-
+ core-2.10.1.jar JDA-4.1.0_81.jar jackson-databind-2.10.1.jar emoji-java
+ -5.1.1.jar
+
